@@ -1,0 +1,10 @@
+langchain-core
+langchainhub
+langchain-community
+langchain-google-genai
+langchain-chroma
+python-dotenv
+langgraph
+grandalf
+beautifulsoup4
+tiktoken
